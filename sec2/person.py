@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 class person():
     def __init__(self, name, email, phone):
         self.name = name
