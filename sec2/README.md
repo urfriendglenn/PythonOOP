@@ -15,7 +15,7 @@ for one_scoop in [s1, s2, s3]:
 ```
 
 ## Person class
-Mame, e-mail address, and phone number
+Name, e-mail address, and phone number
 
 Create several people, and iterate over them in a list and print their names (similar to a phone book)
 
